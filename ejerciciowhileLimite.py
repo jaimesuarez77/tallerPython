@@ -29,6 +29,9 @@ while i < 100:
     break
   i += 1+suma
 
+
+  
+
 # i = 0
 # while i < 10:
 #   print(i+i)
