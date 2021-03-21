@@ -58,7 +58,9 @@ while (breakcentinela=='si'):
         elif (pasajeros==6):
             contador+1
             pasajeros+=1
-        tarifatotal=contador+pasajeros+viajes
+            print('valor de la tarifa   ',tarifatotal,'\n')
+            print('total de pasajeros  ',pasajeros,'\n')
+    tarifatotal=contador+pasajeros+viajes
 print('valor de la tarifa   ',tarifatotal,'\n')
 print('total de pasajeros  ',pasajeros,'\n')
 
